@@ -29,16 +29,16 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é um repositório desenvolvido durante uma live no Youtube em parceria com a [DIO](https://dio.me), no qual sou aluno
 
-Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
+Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
-Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
+Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Leonardo.ai](https://app.leonardo.ai/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
@@ -46,7 +46,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - Roteiro gerado via chatgpt
 - Audio gerado pela elevenLabs
-- Midjourney Para gerar capas
+- Leonardo.ai utilizado para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
 
 ## 📚 Materiais
@@ -62,7 +62,30 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
+- 🤖 3. Use os prompts de artes no `leonardo.ai`
+
+
+## 👨‍💻 Aluno
+
+<p>
+    <img 
+      align=left 
+      margin=10 
+      width=80 
+      src="https://avatars.githubusercontent.com/u/157316361?s=400&v=4"
+    />
+    <p>&nbsp&nbsp&nbspFelipe Malaquias<br>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/felipe-malaquias">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/felipe-malaquias-1b20642b2/">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/felipemalaquias_/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
+</p>
+<br/><br/>
+<p>
 
 ## 👨‍💻 Expert
 
