@@ -33,7 +33,7 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhados.
 
-Utilize uma esteira de prompts para gerar cada etapa do processo criativo.
+- [Ouça agora "Python e Postman: Curiosidades que Facilitam seu Back-End - CodeCast #1"](https://soundcloud.com/user-423231504/python-e-postman-curiosidades-que-facilitam-seu-back-end-codecast-1)
 
 ## 💻 Tecnologias utilizadas no projeto
 
